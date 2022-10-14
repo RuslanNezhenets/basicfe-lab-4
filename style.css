@@ -1,0 +1,29 @@
+#first-element.active {
+  background-color: red;
+}
+
+#second-element.active {
+  background-color: blue;
+  color: white;
+}
+
+.buttons{
+  margin: 20px 0 50px;
+}
+
+.button{
+  display: inline-block;
+  background-color: #A9BCF5;
+  padding: 7px 25px;
+  border-radius: 10px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.button:hover{
+  cursor: pointer;
+}
+
+#img img{
+  width: 500px;
+}
